@@ -963,7 +963,8 @@ body {
   margin: 0 auto;
 }
 #es-garnier.es-garnier .es-footer__logo {
-  margin-bottom: 16px;
+  max-width: 150px;
+  margin: 16px auto;
 }
 #es-garnier.es-garnier .es-footer__wrapper {
   background: linear-gradient(to right, #30663f, #167535, #30663f);
