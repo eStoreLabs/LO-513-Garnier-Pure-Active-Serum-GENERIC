@@ -205,10 +205,11 @@ body {
     padding-left: 50px;
   }
   #es-garnier.es-garnier .es-kv__packshot {
-    left: -50px;
+    translate: -50%;
+    left: 0;
   }
   #es-garnier.es-garnier .es-kv__packshot img {
-    max-height: 240px;
+    max-height: unset;
   }
   #es-garnier.es-garnier .es-kv__text--bracket {
     margin-top: 20px;

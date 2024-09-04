@@ -217,11 +217,12 @@ body {
       }
 
       &__packshot {
-        left: -50px;
+        translate: -50%;
+        left: 0;
       }
 
       &__packshot img {
-        max-height: 240px;
+        max-height: unset;
       }
 
       &__text--bracket {
